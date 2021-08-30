@@ -1,5 +1,5 @@
 # Intro
-Hello. Here
+Hello. Here is the link to my GitHub portfolio https://github.com/isaacbernal9
 
 Code 102 Reading
 
