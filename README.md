@@ -1,5 +1,5 @@
 # Intro
-Hello. Here is the link to my GitHub portfolio https://github.com/isaacbernal9
+Hello. My name is Isaac Bernal. I am Mexican-American/ Chicano. I currently work in landscaping but I want to advance by learning code and increasing my salary. I am passionate about investing specifically Cryptocurrency such as Bitcoin and Dogecoin. Here is the link to my GitHub portfolio https://github.com/isaacbernal9
 
 Code 102 Reading
 
