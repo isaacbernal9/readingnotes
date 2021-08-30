@@ -1,4 +1,7 @@
-# Code 102 Reading
+# Intro
+Hello. Here
+
+Code 102 Reading
 
 - Reading 1
 - Reading 2
@@ -9,3 +12,9 @@
 ### This is a Heading 3
 
 > This is a quote from someone.
+
+### Growth Mindset to me means
+it means
+1. t
+2. t
+3. t
