@@ -13,8 +13,8 @@ Code 102 Reading
 
 > This is a quote from someone.
 
-### Growth Mindset to me means
-it means
-1. t
-2. t
-3. t
+### Growth Mindset
+Growth Mindet means not having a fixed mindset of thinking you can't learn something new. These are my reminders to stay in the Growth Mindset.
+1. Never say "I can't." Instead say "I will learn how."
+2. Instead of avoiding challenges I need to embrace them because they will help me grow.
+3. I shouldn't compare myself with other people because I am in a different part of my journey t han they are.
