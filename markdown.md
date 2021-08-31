@@ -6,6 +6,6 @@ Markdown is a text editor you can use on GitHub. With it you can use italics, ma
 
 # What I learned
 *Italics* are good for emphasizing words. 
-**Bold** also does the trick. You use <When you are quoting somebody.
+**Bold** also does the trick. You use <When you are backquoting somebody.
 
 [Get Rich Quick!](https://dogecoin.com)
