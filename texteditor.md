@@ -4,8 +4,8 @@ Text Editors are great for code completing, syntax highlighting, and extensions.
 
 ## Cheat Code Commands for the Terminal
 
-pwd = present working directory
-ls = list
++pwd = present working directory
++ls = list
 mkdir = make directory
 cd = change directory
 touch = create file
