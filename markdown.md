@@ -13,4 +13,4 @@ When you master markdown you are on your way to creating the website you want to
                                             
 The way i added a hyperlink was by typing Get Rich Quick! in square brackets and then by typing the website url in parentheses.
                                             
-![Hi!](/images/ISAACPROFILE.jpg)                                            
+![Hi!](https://www.freeimages.com/photo/seattle-by-night-1517665)    
