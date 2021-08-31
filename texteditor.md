@@ -6,9 +6,9 @@ Text Editors are great for code completing, syntax highlighting, and extensions.
 
 + pwd = present working directory
 + ls = list
-mkdir = make directory
-cd = change directory
-touch = create file
-cp = copy
-rm = remove
-mv = move
++ mkdir = make directory
++ cd = change directory
++ touch = create file
++ cp = copy
++ rm = remove
++ mv = move
