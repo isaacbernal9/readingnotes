@@ -1,5 +1,6 @@
-This is my notes for my markdown reading
+This is my notes for my markdown reading:
 Text Editors are great for code completing, syntax highlighting, and extensions.
+Markdown is a text editor you can use on GitHub. With it you can use italics, make bold words, and quote somebody.
 
 
 
