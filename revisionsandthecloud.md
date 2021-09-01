@@ -12,6 +12,3 @@ Git is a collaborative website with cloud-based tools for software teams and ope
 - Git lets you to track revisions to files, to show a change history.
 
 
-# Getting Started with Git
-
-
